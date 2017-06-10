@@ -1,0 +1,74 @@
+html {
+  height 100%;
+}
+
+body {
+  margin: 0;
+  height: 100%;
+  font-family: comic sans ms;
+  background-color: orange;
+}
+
+a {
+  color: #fff;
+}
+
+header {
+  color: red;
+  background: blue;
+  padding: 9px;
+  text-align:center;
+}
+nav {
+  width: 200px;
+  height: 100%;
+  float: left;
+  background: #444;
+  margin-right: 20px;
+}
+
+nav ul {
+  list-style: none;
+}
+
+nav ul li {
+  width: 500px;
+  float: left;
+  padding: 5px;
+}
+
+section {
+  width: 500px;
+  float: left; /* don't modify */
+  padding: 5px;
+}
+
+footer{
+  clear: left;
+  padding: 10px;
+  background: yellow ;
+  text-align: ;
+}
+p {
+  color: purple;
+  padding-left: 160px;
+  background-color: yellow;
+}
+
+h2 {
+  color: green;
+  background-color: gray;
+  padding-left: 155px;
+}
+img {
+  padding-left: 110px
+}
+
+background {
+  color: yellow;
+}
+img {
+  padding: 1px;
+   border:1px solid;
+   background-color:black;
+}

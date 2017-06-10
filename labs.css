@@ -1,0 +1,54 @@
+html {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  height: 100%;
+  font-family: helvetica;
+  background-color: tan;
+
+}
+
+a {
+  color: maroon ;
+}
+
+header {
+  padding: 10px;
+  background: maroon;
+  color: black;
+  text-align: center;
+  border-style: solid;
+
+}
+
+nav {
+  width: 200px;
+  height: 100%;
+  float: left; /* don't modify */
+  background-color: slategrey;
+  margin-right: 20px;
+  border-style: solid;
+}
+
+nav ul {
+  list-style: none;
+}
+
+nav ul li {
+  margin-bottom: 50px;
+}
+
+section {
+  width: 500px;
+  float: left; /* don't modify */
+  padding: 5px;
+}
+
+footer {
+  clear: left; /* don't modify */
+  padding: 10px;
+  background: maroon;
+  text-align: ;
+}

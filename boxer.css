@@ -1,0 +1,68 @@
+html {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  height: 100%;
+  font-family: helvetica;
+}
+
+a {
+  color: ;
+}
+
+header {
+  padding: 10px;
+  background:lightblue ;
+  color:dark green ;
+  text-align: center;
+}
+
+nav {
+  width: 200px;
+  height: 100%;
+  float: left; /* don't modify */
+  background-color: ;
+  margin-right: 20px;
+}
+
+nav ul {
+  list-style: none;
+  color: darkblue ;
+}
+
+nav ul li {
+  margin-bottom: 10px;
+
+}
+
+section {
+  width: 500px;
+  float: left; /* don't modify */
+  padding: 5px;
+
+}
+
+img {
+   padding:1px;
+   border:6px solid;
+   background-color:black;
+}
+
+[4:20]
+border
+
+article {
+  color:green ;
+  border: 6px solid ;
+
+}
+
+footer {
+  clear: left; /* don't modify */
+  padding: 10px;
+  background: ;
+  color:red ;
+  text-align: ;
+}
